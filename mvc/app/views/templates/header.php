@@ -19,7 +19,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm" aria-label="Offcanvas navbar large">
         <div class="container-fluid">
-            <a class="navbar-brand text-bg-light ms-5" href="#">MVC COURSE</a>
+            <a class="navbar-brand text-bg-light ms-5" href="<?= BASEURL ?>">MVC COURSE</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2" aria-controls="offcanvasNavbar2">
                 <span class="navbar-toggler-icon"></span>
             </button>
